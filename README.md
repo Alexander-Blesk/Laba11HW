@@ -24,7 +24,8 @@
 
 # Пример работы программы:
 
-<img width="759" height="577" alt="image" src="https://github.com/user-attachments/assets/5ad9c2fd-838f-4dcc-a98b-536fea778b77" />
+<img width="1279" height="536" alt="image" src="https://github.com/user-attachments/assets/95c1edb8-aeca-458a-afdc-804d91a923e9" />
+
 
 # Информация о разработчике
 
